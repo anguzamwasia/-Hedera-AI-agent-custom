@@ -1,0 +1,48 @@
+{
+  "name": "langgraph-hedera-workshop",
+  "version": "0.0.0",
+  "description": "Build AI agents for Hedera using LangGraph",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "hedera:test": "node src/hedera/testConnection.js",
+    "healthcheck": "curl http://localhost:5001/health",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedera-dev/langgraph-hedera-workshop.git"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "langgraph",
+    "workshop",
+    "tutorial"
+  ],
+  "author": "bguiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hedera-dev/langgraph-hedera-workshop/issues"
+  },
+  "homepage": "https://github.com/hedera-dev/langgraph-hedera-workshop#readme",
+  "dependencies": {
+    "@h1deya/langchain-mcp-tools": "0.1.14",
+    "@hashgraph/sdk": "^2.63.0",
+    "@langchain/core": "0.3.40",
+    "@langchain/langgraph": "0.2.48",
+    "@langchain/openai": "0.4.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.3.0",
+    "hedera-agent-kit": "1.0.4",
+    "openapi-mcp-server": "1.2.0-beta05",
+    "zod": "3.24.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
