@@ -1,0 +1,19 @@
+{
+  "name": "claims/photos/IMG-20250324-WA0005.jpg",
+  "bucket": "turing-claim.appspot.com",
+  "metageneration": 1,
+  "generation": 1745627927635,
+  "contentType": "image/jpeg",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "76331048-4ecb-4795-ae0e-7ba19c41b29d"
+  ],
+  "etag": "qXp8ICz/zpuw9up3rQFOj9NltPs",
+  "customMetadata": {},
+  "timeCreated": "2025-04-26T00:38:47.635Z",
+  "updated": "2025-04-26T00:38:47.635Z",
+  "size": 110294,
+  "md5Hash": "vzNkEf73UpRtO9wzTMUm5A==",
+  "crc32c": "1243852477"
+}

@@ -1,0 +1,10 @@
+{
+  "buckets": [
+    {
+      "id": "turing-claim.firebasestorage.app"
+    },
+    {
+      "id": "turing-claim.appspot.com"
+    }
+  ]
+}

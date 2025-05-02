@@ -1,0 +1,19 @@
+{
+  "name": "claims/videos/Video 1 - Join.mp4",
+  "bucket": "turing-claim.appspot.com",
+  "metageneration": 1,
+  "generation": 1745627928146,
+  "contentType": "video/mp4",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "c80081cc-9280-40a9-8a65-9c296dc64137"
+  ],
+  "etag": "Bx3Jj9o0G/+8g+RujRojYpt1crg",
+  "customMetadata": {},
+  "timeCreated": "2025-04-26T00:38:48.146Z",
+  "updated": "2025-04-26T00:38:48.146Z",
+  "size": 17901654,
+  "md5Hash": "+wi88FKwBtqqi8dWFCG4UA==",
+  "crc32c": "1935791718"
+}
